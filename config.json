@@ -10,10 +10,5 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" :{"url":http://blendacademy.in/","username":""},
-    "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "skipssoconfirmation": "false",
-    "forcedefaultlanguage": "false",
-    "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
+    
 }
